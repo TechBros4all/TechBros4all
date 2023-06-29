@@ -3,15 +3,13 @@
 
 - 🔭 We're currently working on our [Portfolio](https://github.com/TechBros4all/Portfolio)
 
-- 🌱 We're currently learning **ReactJS, Socket.Io, BarbaJS and Gsap**
-
 - 👨‍💻 All of our projects are available at [https://github.com/TechBros4all/Portfolio](https://github.com/TechBros4all/Portfolio)
 
-- 💬 Ask us about **JavaScript, Express or NodeJS, MySQL**
+- 💬 Ask us about **JavaScript, Express or NodeJS, MySQL and more**
 
 - 📫 How to reach us **techbrosforall@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 </p>
 
